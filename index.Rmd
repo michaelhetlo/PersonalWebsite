@@ -1,7 +1,7 @@
 ---
 title: "Michael Helton"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the website. I hope you enjoy it! This is a test to see if my github connected
 site: distill::distill_website
 ---
 
