@@ -10,7 +10,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Bio
-A little about me.
+
+```{r}
+library(png)
+library(knitr)
+```
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("me.png")
+```
+
+I am a graduating senior at Macalester College (Saint Paul, MN), majoring in Applied Mathematics and Statistics with an Educational Studies minor.  My goal is to combine my two passions of data science and sports (specifically baseball) seamlessly to help teams win and players get better.  As a data scientist I preform skills such as data cleaning and wrangling, machine learning modeling, data visualization, shiny applications, and Bayesian modeling.  All of which are demonstrated in my projects below.  There are more projects to come, so stay tuned!
+
+:::
 
 # Link to Resume
 [Resume Link](https://github.com/michaelhetlo/Resume/blob/main/Michael%20Helton%20Resume%202021.pdf)
