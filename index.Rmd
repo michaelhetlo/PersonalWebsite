@@ -12,7 +12,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # Bio
 A little about me.
 
-# Socials
+# Link to Resume
+[Resume Link](https://github.com/michaelhetlo/Resume/blob/main/Michael%20Helton%20Resume%202021.pdf)
+
+# Social Links
+[LinkedIn](https://www.linkedin.com/in/michaelhelton156/)\
+[GitHub](https://github.com/michaelhetlo)\
+[Twitter](https://twitter.com/michaelhelto)\
 
 # NFL in Game Win Probability
  Using Bayesian Models this app predicts the probability of the home team winning at the end of each quarter. [NFL In Game Win Probability Website](https://michaelhelton.shinyapps.io/FootballPredictionApp/)
@@ -22,4 +28,3 @@ A little about me.
 
 # MLB Pitch Classification
  This project classifies what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. [Pitch Type Classifier Website](https://pitchpredictormachinelearning.netlify.app/)
-
