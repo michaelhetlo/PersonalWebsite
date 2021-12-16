@@ -1,7 +1,7 @@
 ---
-title: "Michael Helton"
+title: |
+    Michael Helton
 description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -14,6 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Pitch Predictor
 ### This project predicts what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. [Pitch Type Predictor Website](https://pitchpredictormachinelearning.netlify.app/)
+
+# NFL in Game Win Probability
+### This is what it is. [NFL In Game Win Probability Website](https://michaelhelton.shinyapps.io/FootballPredictionApp/)
 
 
 
