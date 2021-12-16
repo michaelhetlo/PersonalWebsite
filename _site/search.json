@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-03-22T10:47:16-05:00"
+      "last_modified": "2021-12-16T10:19:03-06:00"
     },
     {
       "path": "index.html",
       "title": "Michael Helton",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-03-22T10:47:17-05:00"
+      "contents": "\nPredicting FIFA Team of the Season Players project\nThis project used machine learning models to predict who would be in the “Team of the Season” for each league in the video game FIFA based upon real world statistics. TOTS Predictor Website.\nPitch Predictor\nThis project predicts what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. Pitch Type Predictor Website\n\n\n\n",
+      "last_modified": "2021-12-16T10:19:04-06:00"
     }
   ],
   "collections": []
