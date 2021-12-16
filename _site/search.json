@@ -6,14 +6,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-16T12:24:04-06:00"
+      "last_modified": "2021-12-16T12:44:27-06:00"
     },
     {
       "path": "index.html",
       "title": "Michael Helton\n",
       "author": [],
-      "contents": "\nNFL in Game Win Probability\nUsing Bayesian Models this app predicts the probability of the home team winning at the end of each quarter. NFL In Game Win Probability Website\nPredicting FIFA Team of the Season Players\nThis project used machine learning models to predict who would be in the “Team of the Season” for each league in the video game FIFA based upon real world statistics. TOTS Predictor Website.\nMLB Pitch Classification\nThis project classifies what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. Pitch Type Classifier Website\n\n\n\n",
-      "last_modified": "2021-12-16T12:24:04-06:00"
+      "contents": "\nBio\nA little about me.\nSocials\nNFL in Game Win Probability\nUsing Bayesian Models this app predicts the probability of the home team winning at the end of each quarter. NFL In Game Win Probability Website\nPredicting FIFA Team of the Season Players\nThis project used machine learning models to predict who would be in the “Team of the Season” for each league in the video game FIFA based upon real world statistics. TOTS Predictor Website.\nMLB Pitch Classification\nThis project classifies what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. Pitch Type Classifier Website\n\n\n\n",
+      "last_modified": "2021-12-16T12:44:27-06:00"
     }
   ],
   "collections": []
