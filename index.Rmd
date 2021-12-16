@@ -9,6 +9,10 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Bio
+A little about me.
+
+# Socials
 
 # NFL in Game Win Probability
  Using Bayesian Models this app predicts the probability of the home team winning at the end of each quarter. [NFL In Game Win Probability Website](https://michaelhelton.shinyapps.io/FootballPredictionApp/)
