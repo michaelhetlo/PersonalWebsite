@@ -34,6 +34,10 @@ I am a graduating senior at Macalester College (Saint Paul, MN), majoring in App
 [GitHub](https://github.com/michaelhetlo)\
 [Twitter](https://twitter.com/michaelhelto)\
 
+# Stolen Base Probability Model
+Using Bayesian Models this app predicts the probability of a runner to sucessfully steal a base in the MLB. [Stolen Base Probability App](https://michaelhelton.shinyapps.io/StolenBaseProbability/)\ 
+[Stolen Base Probability Model Technical Report](https://stolenbaseprobability.netlify.app/)
+
 # NFL in Game Win Probability
  Using Bayesian Models this app predicts the probability of the home team winning at the end of each quarter. [NFL In Game Win Probability Website](https://michaelhelton.shinyapps.io/FootballPredictionApp/)
 
